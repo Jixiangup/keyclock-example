@@ -1,4 +1,0 @@
-rootProject.name = 'keyclock-example'
-include 'backend'
-include 'frontend'
-
